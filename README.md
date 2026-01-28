@@ -17,4 +17,7 @@
 Код коммитаем в **reports/<Ваша_фамилия>/<Номер_лабораторной_работы>/src**
 
 **Журналы:**
-ССЫЛКА
+
+**1 подгруппа:** https://docs.google.com/spreadsheets/d/1SJ5d57rS_lCId2tRo6SDdhoLCftrx9A5xx8nIlKWFUk/edit?gid=0#gid=0
+
+**2 подгруппа:** https://docs.google.com/spreadsheets/d/1zuzSmWvCGIZS5LtSl2mIdtDr_aG8ZkspkhkExOgwmpw/edit?gid=0#gid=0
